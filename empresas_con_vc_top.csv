@@ -1,0 +1,50 @@
+Company Name,Founded Year,HQ,Industry,Total Funding,ARR,Valuation,Employees,Top Investors,Product,G2 Rating,Valuation_to_ARR,Investor Count,Has_Top_VC
+Intuit,1983,"Mountain View, CA, USA",Financial Software,273.0,14400.0,180000.0,18200,"Sierra Ventures, Kleiner Perkins","QuickBooks, TurboTax",4.4,12.5,2,True
+ServiceNow,2004,"Santa Clara, CA, USA",IT Service Management,82.5,8900.0,147000.0,20000,"JMI Equity, Sequoia Capital",IT Service Management Platform,4.4,16.51685393258427,2,True
+Zoom,2011,"San Jose, CA, USA",Video Communications,145.5,4500.0,85000.0,7388,"Sequoia Capital, Emergence",Video Conferencing Platform,4.5,18.88888888888889,2,True
+Atlassian,2002,"Sydney, Australia",Collaboration Software,60.0,3500.0,55000.0,11800,Accel Partners,"Jira, Confluence, Trello",4.3,15.714285714285714,1,True
+Snowflake,2012,"Bozeman, MT, USA",Data Warehousing,1400.0,2800.0,75000.0,6500,"Sequoia, ICONIQ, Altimeter",Cloud Data Platform,4.4,26.785714285714285,3,True
+DocuSign,2003,"San Francisco, CA, USA",Digital Agreements,514.3,2500.0,10000.0,7336,"Kleiner Perkins, Accel","eSignature, Contract Lifecycle",4.5,4.0,2,True
+Slack,2009,"San Francisco, CA, USA",Team Communication,1400.0,1700.0,,2545,"Accel, Andreessen Horowitz",Team Messaging Platform,4.5,,2,True
+Notion,2013,"San Francisco, CA, USA",Productivity,353.0,400.0,10000.0,800,"Index Ventures, Sequoia",All-in-one workspace,4.7,25.0,2,True
+Datadog,2010,"New York, NY, USA",Monitoring & Analytics,147.9,2100.0,44000.0,5200,"ICONIQ, Index Ventures",Infrastructure Monitoring,4.4,20.952380952380953,2,True
+MongoDB,2007,"New York, NY, USA",Database,311.2,1700.0,26000.0,4500,"Sequoia, NEA, USV",Document Database Platform,4.5,15.294117647058824,3,True
+Okta,2009,"San Francisco, CA, USA",Identity Management,230.5,2200.0,25000.0,5900,"Andreessen Horowitz, Greylock",Identity & Access Management,4.4,11.363636363636363,2,True
+Stripe,2010,"San Francisco, CA, USA",Payments,8700.0,14000.0,65000.0,8000,"Sequoia, Andreessen Horowitz",Payment Processing Platform,4.4,4.642857142857143,2,True
+Square,2009,"San Francisco, CA, USA",Payments,590.5,19700.0,85000.0,8500,"Khosla Ventures, Sequoia",Payment & POS Solutions,4.2,4.314720812182741,2,True
+Canva,2013,"Sydney, Australia",Design,572.6,2000.0,40000.0,3500,"Sequoia, Bessemer, Bond",Design Platform,4.7,20.0,3,True
+Asana,2008,"San Francisco, CA, USA",Work Management,453.2,652.0,5500.0,1600,"Benchmark, Founders Fund",Work Management Platform,4.3,8.43558282208589,2,True
+Airtable,2012,"San Francisco, CA, USA",Database/Spreadsheet,735.1,500.0,11000.0,900,"Benchmark, Thrive Capital",Low-code Database Platform,4.6,22.0,2,True
+Figma,2012,"San Francisco, CA, USA",Design,332.9,600.0,,1300,"Index Ventures, Greylock",Collaborative Design Tool,4.7,,2,True
+Zendesk,2007,"San Francisco, CA, USA",Customer Service,85.5,1900.0,13200.0,6000,"Benchmark, Matrix Partners",Customer Service Platform,4.3,6.947368421052632,2,True
+Dropbox,2008,"San Francisco, CA, USA",Cloud Storage,1700.0,2500.0,8500.0,2700,"Sequoia, Accel, Index",Cloud Storage & Collaboration,4.4,3.4,3,True
+Freshworks,2010,"San Mateo, CA, USA",Customer Engagement,484.7,596.0,5200.0,5000,"Accel, Sequoia Capital India",Customer Engagement Suite,4.4,8.724832214765101,2,True
+Klaviyo,2012,"Boston, MA, USA",Marketing Automation,778.2,698.0,9500.0,1500,"Summit Partners, Accel",Email & SMS Marketing,4.6,13.61031518624642,2,True
+UiPath,2005,"New York, NY, USA",RPA,2000.0,1300.0,7000.0,4013,"Sequoia, Accel, IVP",Robotic Process Automation,4.5,5.384615384615385,3,True
+Databricks,2013,"San Francisco, CA, USA",Data & AI,3500.0,1600.0,43000.0,5000,"Andreessen Horowitz, NEA",Unified Analytics Platform,4.5,26.875,2,True
+Confluent,2014,"Mountain View, CA, USA",Data Streaming,455.9,773.0,9100.0,2500,"Sequoia, Benchmark, Index",Data Streaming Platform,4.4,11.772315653298836,3,True
+Elastic,2012,"Mountain View, CA, USA",Search & Analytics,162.0,1100.0,8000.0,3000,"NEA, Benchmark, Index",Search & Analytics Platform,4.4,7.2727272727272725,3,True
+PagerDuty,2009,"San Francisco, CA, USA",Incident Response,173.7,430.0,2800.0,1000,"Andreessen Horowitz, Bessemer",Digital Operations Platform,4.3,6.511627906976744,2,True
+New Relic,2008,"San Francisco, CA, USA",Observability,215.0,785.0,6500.0,2300,"Benchmark, Trinity, Tenaya",Observability Platform,4.3,8.280254777070065,3,True
+Miro,2011,"San Francisco, CA, USA",Collaboration,476.3,400.0,17500.0,1800,"ICONIQ, Accel, GV",Visual Collaboration Platform,4.7,43.75,3,True
+Intercom,2011,"San Francisco, CA, USA",Customer Messaging,240.7,200.0,1300.0,800,"Kleiner Perkins, Bessemer",Customer Messaging Platform,4.4,6.5,2,True
+Segment,2012,"San Francisco, CA, USA",Customer Data,284.0,200.0,,600,"Accel, GV, Kleiner Perkins",Customer Data Platform,4.5,,3,True
+Looker,2012,"Santa Cruz, CA, USA",Business Intelligence,281.5,150.0,,800,"CapitalG, Kleiner Perkins",Data Platform,4.4,,2,True
+Amplitude,2012,"San Francisco, CA, USA",Product Analytics,336.0,233.0,4000.0,700,"Sequoia, IVP, Battery",Product Analytics Platform,4.5,17.167381974248926,3,True
+Mixpanel,2009,"San Francisco, CA, USA",Product Analytics,77.0,100.0,1050.0,300,"Andreessen Horowitz, Sequoia",Product Analytics,4.4,10.5,2,True
+Sumo Logic,2010,"Redwood City, CA, USA",Log Management,235.0,299.0,2300.0,750,"Accel, DFJ, Greylock",Cloud Log Management,4.2,7.6923076923076925,3,True
+CrowdStrike,2011,"Austin, TX, USA",Cybersecurity,481.0,3100.0,70000.0,7900,"Warburg Pincus, Accel",Endpoint Security Platform,4.7,22.580645161290324,2,True
+Palo Alto Networks,2005,"Santa Clara, CA, USA",Cybersecurity,66.3,7500.0,95000.0,13300,"Sequoia, Greylock",Security Platform,4.5,12.666666666666666,2,True
+RingCentral,2003,"Belmont, CA, USA",Communications,44.0,2200.0,5000.0,3600,"Sequoia, Khosla, Scale",Cloud Communications,4.2,2.272727272727273,3,True
+Qualtrics,2002,"Provo, UT, USA",Experience Management,400.0,1500.0,,5300,"Sequoia, Accel, Insight",Experience Management Platform,4.4,,3,True
+Wix,2006,"Tel Aviv, Israel",Website Building,59.0,1600.0,10000.0,5500,"Benchmark, Bessemer",Website Builder Platform,4.2,6.25,2,True
+Gong,2015,"San Francisco, CA, USA",Revenue Intelligence,584.0,250.0,7300.0,1300,"Sequoia, Coatue, Thrive",Revenue Intelligence Platform,4.7,29.2,3,True
+Carta,2012,"San Francisco, CA, USA",Equity Management,1100.0,300.0,7400.0,1600,"Andreessen Horowitz, Lightspeed",Equity Management Platform,4.4,24.666666666666668,2,True
+Navan,2015,"Palo Alto, CA, USA",Travel & Expense,1500.0,400.0,9200.0,2500,"Andreessen Horowitz, Addition",Travel & Expense Platform,4.7,23.0,2,True
+Algolia,2012,"San Francisco, CA, USA",Search & Discovery,334.0,100.0,2300.0,700,"Accel, Salesforce Ventures",Search & Discovery API,4.6,23.0,2,True
+Samsara,2015,"San Francisco, CA, USA",IoT,930.0,856.0,12000.0,2100,"Andreessen Horowitz, Tiger",Connected Operations Platform,4.4,14.018691588785046,2,True
+Verkada,2016,"San Mateo, CA, USA",Physical Security,460.0,400.0,3200.0,1600,"Sequoia, Felicis",Cloud Security Platform,4.7,8.0,2,True
+Netskope,2012,"Santa Clara, CA, USA",Cloud Security,1400.0,500.0,7500.0,2500,"Sequoia, Lightspeed",SASE Platform,4.6,15.0,2,True
+Tanium,2007,"Kirkland, WA, USA",Endpoint Management,1000.0,500.0,9500.0,2000,"Andreessen Horowitz, IVP",Endpoint Management Platform,4.2,19.0,2,True
+Snyk,2015,"Boston, MA, USA",Developer Security,1400.0,200.0,7400.0,1300,"Tiger Global, Accel",Developer Security Platform,4.5,37.0,2,True
+ServiceTitan,2012,"Glendale, CA, USA",Field Service,1500.0,685.0,9500.0,2700,"Tiger Global, Sequoia",Field Service Management,4.2,13.86861313868613,2,True

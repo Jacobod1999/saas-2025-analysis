@@ -1,0 +1,11 @@
+Company Name,Founded Year,HQ,Industry,Total Funding,ARR,Valuation,Employees,Top Investors,Product,G2 Rating
+Microsoft,1975,"Redmond, WA, USA",Enterprise Software,1000.0,270000.0,3000000.0,221000,"Bill Gates, Paul Allen","Azure, Office 365, Teams",4.4
+Oracle,1977,"Austin, TX, USA",Database & Enterprise,0.002,52900.0,350000.0,143000,"Larry Ellison, Bob Miner","Oracle Cloud, NetSuite",4.0
+Salesforce,1999,"San Francisco, CA, USA",CRM,65.4,37900.0,227800.0,75000,"Halsey Minor, Larry Ellison","Sales Cloud, Service Cloud",4.3
+Square,2009,"San Francisco, CA, USA",Payments,590.5,19700.0,85000.0,8500,"Khosla Ventures, Sequoia",Payment & POS Solutions,4.2
+Adobe,1982,"San Jose, CA, USA",Creative Software,2.5,19400.0,240000.0,29945,Hambrecht & Quist,"Creative Cloud, Document Cloud",4.5
+Intuit,1983,"Mountain View, CA, USA",Financial Software,273.0,14400.0,180000.0,18200,"Sierra Ventures, Kleiner Perkins","QuickBooks, TurboTax",4.4
+Stripe,2010,"San Francisco, CA, USA",Payments,8700.0,14000.0,65000.0,8000,"Sequoia, Andreessen Horowitz",Payment Processing Platform,4.4
+ServiceNow,2004,"Santa Clara, CA, USA",IT Service Management,82.5,8900.0,147000.0,20000,"JMI Equity, Sequoia Capital",IT Service Management Platform,4.4
+Palo Alto Networks,2005,"Santa Clara, CA, USA",Cybersecurity,66.3,7500.0,95000.0,13300,"Sequoia, Greylock",Security Platform,4.5
+Workday,2005,"Pleasanton, CA, USA",HR & Finance,249.9,7300.0,65000.0,18800,"Greylock Partners, NEA","HCM, Financial Management",4.2
